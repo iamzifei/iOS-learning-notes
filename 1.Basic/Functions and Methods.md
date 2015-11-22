@@ -1,6 +1,6 @@
-## functions and methods
+## Functions and Methods
 
-###difference between functions and methods
+###Difference between functions and methods
 
 The difference between the two is that a **function doesn’t belong to an object** while a method does. In other words, a method is exactly like a function – that’s why you use the func keyword to define them – except that you need to have an object to use the method. But regular **functions**, or free functions as they are sometimes called, **can be used anywhere**.
 
@@ -31,7 +31,7 @@ The second parameter looks like this:
 
 This one has two names, `numberOfRowsInSection` and `section`. The first name, `numberOfRowsInSection`, is used when calling the method (this is known as the *external parameter name*). Inside the method itself you use the second name, `section` (the local parameter name). The data type of this parameter is `Int`.
 
-### return value
+### The `return` value
 
 The `return` type of the method is at the end, after the `->` arrow. If there is no arrow, then the method is not supposed to return a value. If the return type is something with `?`, it means can return nil object.
 

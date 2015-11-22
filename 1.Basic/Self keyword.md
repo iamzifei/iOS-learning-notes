@@ -1,4 +1,4 @@
-## self keyword
+## The `Self` keyword
 
 The `self` keyword allows the view controller to refer to itself. Normally you don't need to use self to send messages to the view controller.
 

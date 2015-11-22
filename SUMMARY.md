@@ -3,7 +3,7 @@
 This is the summary of the book
 
 1. Basic knowledge
-	* [How does an app work?](1.Basic/How does an app work?.md) 
+	* [How does an app work?](1.Basic/How does an app work.md) 
 	* [3 scopes of variable in Swift](1.Basic/3 scopes of variable in Swift.md)
 	* [Xcode shortcuts](1.Basic/Xcode shortcuts.md)
 	* [Action methids vs. normal methods](1.Basic/Action methids vs. normal methods.md)
