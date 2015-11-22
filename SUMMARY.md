@@ -16,7 +16,7 @@ This is the summary of the book
 	* [iPhone app signing](1.Basic/iPhone app signing.md)
 	* [MVC](1.Basic/MVC.md)
 	* [Tableview](1.Basic/Tableview.md)
-	* [functions and methods](1.Basic/functions and methods.md)
+	* [Functions and Methods](1.Basic/Functions and Methods.md)
 	* [NSString vs. String](1.Basic/NSString vs. String.md)
 	* [Weak](1.Basic/Weak.md)
 	* [Sending message from one view controller to another](1.Basic/Sending message from one view controller to another.md)
