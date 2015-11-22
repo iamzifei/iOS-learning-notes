@@ -21,3 +21,4 @@ This is the summary of the book
 	* [Weak](1.Basic/Weak.md)
 	* [Sending message from one view controller to another](1.Basic/Sending message from one view controller to another.md)
 	* [Delegation](1.Basic/Delegation.md)
+	* [Initializers](1.Basic/Initializers.md)
