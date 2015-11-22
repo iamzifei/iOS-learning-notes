@@ -20,4 +20,4 @@ This is the summary of the book
 	* [NSString vs. String](1.Basic/NSString vs. String.md)
 	* [Weak](1.Basic/Weak.md)
 	* [Sending message from one view controller to another](1.Basic/Sending message from one view controller to another.md)
-	* [Delegation](1.Basci/Delegation.md)
+	* [Delegation](1.Basic/Delegation.md)
