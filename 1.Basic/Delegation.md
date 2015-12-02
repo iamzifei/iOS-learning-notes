@@ -13,4 +13,4 @@ Object A is the delegate for object B, and Object B will send message back to A.
 5. Tell B that A is now its delegate.
 
 
-Check [Sending message from one view controller to another](1.Basic/Sending message from one view controller to another.md) for more details
+Check [Sending message from one view controller to another](Sending message from one view controller to another.md) for more details

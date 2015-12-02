@@ -60,3 +60,14 @@ The table view doesn’t really care who its data source is or what kind of data
 Likewise, the table view knows how to recognize when the user taps a row, but what it should do in response completely depends on the app. In this app you’ll make it toggle the checkmark; another app will likely do something totally different.
 
 The table view splits up its delegate duties into two separate helpers: the `UITableViewDataSource` for putting rows into the table, and the `UITableViewDelegate` for handling taps on the rows and several other tasks.
+
+
+### Tableview Cell
+4 ways to make table view cells:
+
+1. Using prototype cells, in Storyboard. This is the simplest and quickest way.
+
+2. Using sattic cells. This is limited to screens where you know in advance which cells you'll have. The advantage with this is *you don't need to provide any data source method*
+3. Using a *nib* file. Similar  to 1st way, except that you can do it outside of a Storyboard.
+4. By hand/Coding. You need to specify a certain **cell style**.
+
